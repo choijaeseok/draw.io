@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T02:28:27.985Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_3H73V7lnkB3p-MD35F2" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-14T02:29:19.418Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="iwdpHB7tC5Y2qn1hUlaM" version="20.5.3" type="github" pages="2">
   <diagram name="구성" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="1739" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2522" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -344,9 +344,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="290" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="oRUPzGWth8vACBXKr6Dj-1" value="github upload test" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="740" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
