@@ -16,3 +16,4 @@ e그린_엔진_수신 					- D:\KNL\1 WORK\02 Project\[진행]부평_민원통�
 부평플랫폼엔진_시퀀스다이어그램 	- D:\KNL\1 WORK\02 Project\[진행]부평_민원통합관리플랫폼\서버플랫폼구축\uml
 부평플랫폼엔진_클래스다이어그램 	- D:\KNL\1 WORK\02 Project\[진행]부평_민원통합관리플랫폼\서버플랫폼구축\uml
 불법주정차카카오기반사전안내및결재시스템_PSND_(2020.06.15) - D:\KNL\1 WORK\02 Project\[진행]카카오 사전알림톡 서비스\0. 진행절차
+msa구성        					- D:\KNL\1 WORK\01 Lab\spring boot\msa\관리산출물
